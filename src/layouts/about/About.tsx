@@ -14,11 +14,10 @@ function About() {
 							<strong>Tên website: </strong>ZoiBook
 						</p>
 						<p>
-							<strong>Địa chỉ: </strong>97/13+15 Ung Văn Khiêm, P25, quận
-							Bình Thạnh
+							<strong>Địa chỉ: </strong>Khu phố 6, P. Linh Trung, Q. Thủ Đức, TP.HCM
 						</p>
 						<p>
-							<strong>Số điện thoại: </strong>0813535314
+							<strong>Số điện thoại: </strong>0793621223
 						</p>
 						<p>
 							<strong>Email: </strong>zoibook-store@gmail.com
@@ -45,7 +44,7 @@ function About() {
 				<div className='d-flex align-items-center justify-content-center'>
 					<iframe
 						title='Map'
-						src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d979.7718648167253!2d106.71648955933027!3d10.804613354430936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175293dceb22197%3A0x755bb0f39a48d4a6!2zVHLGsOG7nW5nIMSQ4bqhaSBI4buNYyBHaWFvIFRow7RuZyBW4bqtbiBU4bqjaSBUaMOgbmggUGjhu5EgSOG7kyBDaMOtIE1pbmggLSBDxqEgc-G7nyAx!5e0!3m2!1svi!2s!4v1699964965789!5m2!1svi!2s'
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.131719788719!2d106.79903931137046!3d10.877584789232737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d8a415a9d221%3A0x550c2b41569376f9!2sInternational%20University%20-%20VNU-HCM!5e0!3m2!1sen!2s!4v1748614132250!5m2!1sen!2s"
 						width='600'
 						height='450'
 						style={{ border: 0 }}

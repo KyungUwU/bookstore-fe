@@ -1,4 +1,14 @@
 .actived {
-	background-color: #e3ebf7;
-	border-radius: var(--mdb-pagination-border-radius);
+  background-color: #a8c0ff;
+  border-radius: var(--mdb-pagination-border-radius);
+  box-shadow: 0 4px 8px rgba(100, 130, 230, 0.3);
+  color: #1a3d7c;
+  font-weight: 600;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.actived:hover {
+  background-color: #8faaff;
+  box-shadow: 0 6px 12px rgba(80, 110, 220, 0.5);
+  cursor: pointer;
 }

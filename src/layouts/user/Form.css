@@ -1,3 +1,24 @@
 .input-field {
 	margin: 12px 0 !important;
 }
+.input-field::placeholder {
+  color: #7a8bbd; /* màu xanh nhẹ */
+  font-style: italic;
+}
+
+.input-field {
+  margin: 12px 0;
+  padding: 10px 15px;
+  border: 1.5px solid #a8c0ff; /* xanh nhẹ */
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  outline: none;
+  width: 100%; /* full width container */
+  box-sizing: border-box;
+}
+
+.input-field:focus {
+  border-color: #1a3d7c; /* xanh đậm khi focus */
+  box-shadow: 0 0 8px rgba(26, 61, 124, 0.4);
+}
